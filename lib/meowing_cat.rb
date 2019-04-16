@@ -1,4 +1,6 @@
-## code your solution here. 
-class Cat
+require 'pry'
 
+
+class Cat
+  attr_accessor :name = ""
 end
