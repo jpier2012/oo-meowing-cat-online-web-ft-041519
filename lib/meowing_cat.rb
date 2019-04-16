@@ -9,4 +9,3 @@ class Cat
   end
 end
 
-binding.pry
